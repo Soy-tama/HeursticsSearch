@@ -54,7 +54,7 @@ Solution path: ['swap(0, 1)', 'swap(1, 2)', 'swap(2, 3)', ...]
 ---
 
 ## Output
-![OPBlock]()
+![OPBlock](Assets/BlockArrOutput.png)
 
 ---
 # 8 Puzzle Problem
@@ -116,7 +116,7 @@ Optimal solution path (moves):
 ---
 
 ## Output
-![OP8Puzzle]()
+![OP8Puzzle](Assets/8puzzoutput.png)
 
 
 ---
